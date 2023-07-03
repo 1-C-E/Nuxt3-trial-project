@@ -14,6 +14,8 @@
 .container {
   font-size: 70px;
   color: white;
-  margin: 7rem 0 0 47rem;
+  margin: 7rem 0 0 0;
+  display: flex;
+  justify-content: center;
 }
 </style>

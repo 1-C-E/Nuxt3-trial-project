@@ -23,11 +23,12 @@
 <style>
 ul {
   list-style: none;
-  padding: 2px 0 2px 12px;
-  margin: 30px 29rem 0 29rem;
+  padding: 2px 0 2px 0;
+  margin: 30px 23% 0 23%;
   display: flex;
   background-color: #696969;
   border-radius: 50px;
+  justify-content: center;
 }
 
 ul li {
