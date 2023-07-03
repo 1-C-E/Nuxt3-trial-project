@@ -11,10 +11,6 @@
 <style>
 @import '@/assets/global.css';
 
-.app {
-  background-color: black;
-}
-
 .container {
   font-size: 70px;
   color: white;

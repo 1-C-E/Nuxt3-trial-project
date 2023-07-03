@@ -23,9 +23,11 @@
 <style>
 ul {
   list-style: none;
-  padding: 20px;
-  margin: 0 0 0 30rem;
-  display: flex
+  padding: 2px 0 2px 12px;
+  margin: 30px 29rem 0 29rem;
+  display: flex;
+  background-color: #696969;
+  border-radius: 50px;
 }
 
 ul li {
