@@ -1,7 +1,7 @@
 <template>
   <div class="app">
     <TheNavigation/>
-    <div class="container">
+    <div class="text-7xl text-white mt-40 flex justify-center">
       <NuxtPage/>
     </div>
     <TheFooter/>
@@ -11,11 +11,11 @@
 <style>
 @import '@/assets/global.css';
 
-.container {
+/*.container {
   font-size: 70px;
   color: white;
   margin: 7rem 0 0 0;
   display: flex;
   justify-content: center;
-}
+}*/
 </style>
