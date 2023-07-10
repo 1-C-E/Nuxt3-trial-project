@@ -1,5 +1,5 @@
 <template>
-  <div class="text-white mt-96 flex justify-center">
+  <div class="text-white mt-[36rem] flex justify-center">
     Все права защищены, anytime 2023
   </div>
 </template>

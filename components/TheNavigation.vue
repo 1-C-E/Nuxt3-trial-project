@@ -1,47 +1,47 @@
 <template>
   <div>
-    <ul>
-      <li>
-        <nuxt-link to="/">anytime</nuxt-link>
+    <ul class="flex justify-center list-none pt-[2px] pb-[2px] mt-[30px] mx-[500px] bg-zinc-400 rounded-[50px]" >
+      <li class="li">
+        <nuxt-link to="/" class="link">anytime</nuxt-link>
       </li>
-      <li>
-        <nuxt-link to="/about_us">про нас</nuxt-link>
+      <li class="li">
+        <nuxt-link to="/about_us" class="link">про нас</nuxt-link>
       </li>
-      <li>
-        <nuxt-link to="/blog">блог</nuxt-link>
+      <li class="li">
+        <nuxt-link to="/blog" class="link">блог</nuxt-link>
       </li>
-      <li>
-        <nuxt-link to="news">новости</nuxt-link>
+      <li class="li">
+        <nuxt-link to="news" class="link">новости</nuxt-link>
       </li>
-      <li>
-        <nuxt-link to="registration">регистрация</nuxt-link>
+      <li class="li">
+        <nuxt-link to="registration" class="link">регистрация</nuxt-link>
       </li>
     </ul>
   </div>
 </template>
 
 <style>
-ul {
+/*ul {
+  display: flex;
+  justify-content: center;
   list-style: none;
   padding: 2px 0 2px 0;
   margin: 30px 23% 0 23%;
-  display: flex;
   background-color: #696969;
   border-radius: 50px;
-  justify-content: center;
-}
+}*/
 
-ul li {
-  margin: 20px;
-}
+/*ul li {
+  margin: 15px;
+}*/
 
-ul li a {
+/*ul li a {
   font-size: 40px;
   text-decoration: none;
   color: white;
-}
+}*/
 
-ul li a:hover {
+/*ul li a:hover {
   text-decoration: underline;
-}
+}*/
 </style>

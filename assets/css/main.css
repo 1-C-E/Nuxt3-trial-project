@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+    .link {
+        @apply text-[36px] text-white hover:text-black  no-underline;
+    }
+    .li {
+        @apply m-[15px];
+    }
+}

@@ -1,7 +1,7 @@
 <template>
   <div class="app">
     <TheNavigation/>
-    <div class="text-7xl text-white mt-40 flex justify-center">
+    <div class="text-[70px] text-white mt-[7rem] flex justify-center">
       <NuxtPage/>
     </div>
     <TheFooter/>
